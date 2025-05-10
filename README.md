@@ -1,16 +1,42 @@
-## Hi there 👋
+![단락 텍스트 (3)](https://github.com/user-attachments/assets/f53f240c-b8bd-470c-a5bf-39b97b6001ef)
 
-<!--
-**Dev-RiQ/Dev-RiQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<p align="center" style="font-size:250%">
+  ⭐ Main Stack
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <span style="font-size:250%">📖 SubStack</span>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=gradle,redis,mongodb,aws,kafka,postman" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,npm,js,jquery,html,css,nginx" />
+  </a>
+</p>
+
+---
+
+<p align="center" style="font-size:250%">
+  💻 Tool
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,github,git,docker,notion,discord" />
+  </a>
+</p>
