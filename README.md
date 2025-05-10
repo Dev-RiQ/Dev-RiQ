@@ -2,10 +2,7 @@
 
 ---
 
-<p align="center" style="font-size:250%">
-  ⭐ Main Stack
-</p>
-
+<h1 align="center">⭐ Main Stack</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,mysql" />
@@ -14,10 +11,7 @@
 
 ---
 
-<p align="center">
-  <span style="font-size:250%">📖 SubStack</span>
-</p>
-
+<h1 align="center">📖 SubStack</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gradle,redis,mongodb,aws,kafka,postman" />
@@ -31,10 +25,7 @@
 
 ---
 
-<p align="center" style="font-size:250%">
-  💻 Tool
-</p>
-
+<h1 align="center">💻 Tool</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=idea,eclipse,vscode,github,git,docker,notion,discord" />
